@@ -7,3 +7,4 @@
 * [Publications](publications.md)
 * [Research](research.md)
 * [Contact](contact.md)
+* [فارسی](https://sotothe.gitbooks.io/thebook/content/)
