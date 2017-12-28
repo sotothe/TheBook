@@ -1,5 +1,7 @@
 {
-     "plugins": ["katex"]
+     "direction": "ltr",
+     "language": "en",
+     "plugins": ["toggle-chapters"]
 }
 
 
